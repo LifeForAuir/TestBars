@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Тестовая барс</title>
+
+    <!-- Bootstrap -->
+    <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link href="css/views/index.css" rel="stylesheet">
+    
+    
+    <link rel="stylesheet" href="bower_components/bootstrap-table/dist/bootstrap-table.min.css">
+    <link rel="stylesheet" href="bower_components/bootstrap-datepicker/dist/css/bootstrap-datepicker.min.css">
+  </head>
+  <body>
+
+    <div class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="#">Тестовая барс</a>
+        </div>
+        <div>
+          <ul class="nav navbar-nav navbar-right">
+            <li><a id='lnExit' onclick='lnExit_click();' href="#"><span class="glyphicon glyphicon-log-out" id="spanExit"></span></a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+
+    <div class="container">
+		<form>
+			<div class="custom-control custom-checkbox" id="divCbOnlyMyDocs">
+				<input type="checkbox" class="custom-control-input" id="cbOnlyMyDocs">
+				<label class="custom-control-label" for="defaultUnchecked">Только мои документы</label>
+			</div>
+			<a title="Добавить" class="btn btn-default glyphicon glyphicon-plus" onClick="onAdd()" id="btAdd"> </a>
+		</form>
+
+        <table id='findResultTable' >
+        </table>
+        
+    </div>
+    
+    
+
+    <div class="modal fade" id="modalEditDocs" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="myModalLabel">Изменение документа</h4>
+          </div>
+          <div class="modal-body">
+            <form class="form-signin" role="form">
+				<input id='tbNameEdit' type="text" class="form-control" placeholder="Название" required autofocus>
+				<input id='tbNumberEdit' type="text" class="form-control" placeholder="Номер" required>
+				<input id='tbDescriptionEdit' type="text" class="form-control" placeholder="Примечание">
+				<input id='tbDateEdit' type="date" class="form-control" placeholder="Дата" required>
+				<input id='tbIdEdit' type="text" class="form-control" style="display: none">
+				<button id='btEdit' class="btn btn-lg btn-primary btn-block" type="button" onClick="EditDoc();">Изменить</button>
+			</form>
+          </div>
+        </div>
+      </div>
+    </div>
+	
+	<div class="modal fade" id="modalAddDocs" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+      <div class="modal-dialog" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+            <h4 class="modal-title" id="myModalLabel">Создание документа</h4>
+          </div>
+          <div class="modal-body">
+            <form class="form-signin" role="form">
+				<input id='tbNameAdd' type="text" class="form-control" placeholder="Название" required autofocus>
+				<input id='tbNumberAdd' type="text" class="form-control" placeholder="Номер" required>
+				<input id='tbDescriptionAdd' type="text" class="form-control" placeholder="Примечание">
+				<input id='tbDateAdd' type="date" class="form-control" placeholder="Дата" required>
+				<button id='btAdd' class="btn btn-lg btn-primary btn-block" type="button" onclick="AddDoc();">Создать</button>
+			</form>
+          </div>
+        </div>
+      </div>
+    </div>
+    
+    <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+    <script src="bower_components/jquery/dist/jquery.min.js"></script>
+    <!-- Include all compiled plugins (below), or include individual files as needed -->
+    <!-- Latest compiled and minified CSS -->
+
+    <!-- Latest compiled and minified JavaScript -->
+    <script src="bower_components/bootstrap-table/dist/bootstrap-table.min.js"></script>
+
+    <!-- Latest compiled and minified Locales -->
+    <script src="bower_components/bootstrap-table/dist/locale/bootstrap-table-ru-RU.min.js"></script>
+    <script type="text/javascript" src="bower_components/moment/min/moment.min.js"></script>
+    
+    <link rel="stylesheet" type="text/css" href="bower_components/seiyria-bootstrap-slider/dist/css/bootstrap-slider.min.css"/>
+    
+    <link rel="stylesheet" type="text/css" href="bower_components/bootstrap-daterangepicker/daterangepicker.css" />
+    <link href="bower_components/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    
+    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+    <script src="bower_components/jquery.cookie/jquery.cookie.js"></script>
+    
+    <script src="js/views/index.js"></script>
+    <script src="js/views/common.js"></script>
+  </body>
+</html>

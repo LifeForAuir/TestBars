@@ -1,0 +1,1 @@
+forever start --append -l `pwd`/logs/forever.log --workingDir `pwd` www

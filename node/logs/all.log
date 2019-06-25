@@ -1,0 +1,125 @@
+
+{"level":"error","message":"access deny to get /favicon.ico for anon ","timestamp":"2019-06-25T10:39:29.077Z"}
+{"level":"error","message":"access deny to get /favicon.ico for anon ","timestamp":"2019-06-25T10:39:49.789Z"}
+{"level":"error","message":"access deny to get /favicon.ico for anon ","timestamp":"2019-06-25T10:40:29.096Z"}
+{"level":"error","message":"access deny to get /favicon.ico for anon ","timestamp":"2019-06-25T10:41:56.537Z"}
+{"level":"info","message":"/api/role/changeDocs?_=1561459984313","timestamp":"2019-06-25T10:53:04.644Z"}
+{"level":"error","message":"GET 500 Cannot read property 'role' of undefined","timestamp":"2019-06-25T10:53:04.648Z"}
+{"level":"info","message":"/api/role/addDocs?_=1561459984314","timestamp":"2019-06-25T10:53:04.675Z"}
+{"level":"error","message":"GET 500 Cannot read property 'role' of undefined","timestamp":"2019-06-25T10:53:04.676Z"}
+{"level":"info","message":"/api/role/changeDocs?_=1561460013274","timestamp":"2019-06-25T10:53:33.374Z"}
+{"level":"error","message":"GET 500 Cannot read property 'role' of undefined","timestamp":"2019-06-25T10:53:33.390Z"}
+{"level":"info","message":"/api/role/addDocs?_=1561460013275","timestamp":"2019-06-25T10:53:33.443Z"}
+{"level":"error","message":"GET 500 Cannot read property 'role' of undefined","timestamp":"2019-06-25T10:53:33.452Z"}
+{"level":"info","message":"/api/role/changeDocs?_=1561460129730","timestamp":"2019-06-25T10:55:29.936Z"}
+{"level":"error","message":"GET 500 Cannot read property 'role' of undefined","timestamp":"2019-06-25T10:55:29.941Z"}
+{"level":"info","message":"/api/role/addDocs?_=1561460129731","timestamp":"2019-06-25T10:55:29.936Z"}
+{"level":"error","message":"GET 500 Cannot read property 'role' of undefined","timestamp":"2019-06-25T10:55:29.941Z"}
+{"level":"info","message":"/api/role/changeDocs?_=1561460217159","timestamp":"2019-06-25T10:56:57.280Z"}
+{"level":"error","message":"GET 500 Cannot read property 'role' of undefined","timestamp":"2019-06-25T10:56:57.285Z"}
+{"level":"info","message":"undefined","timestamp":"2019-06-25T10:56:57.283Z"}
+{"level":"info","message":"/api/role/addDocs?_=1561460217160","timestamp":"2019-06-25T10:56:57.280Z"}
+{"level":"error","message":"GET 500 Cannot read property 'role' of undefined","timestamp":"2019-06-25T10:56:57.286Z"}
+{"level":"info","message":"undefined","timestamp":"2019-06-25T10:56:57.285Z"}
+{"level":"info","message":"/api/role/changeDocs?_=1561460353038","timestamp":"2019-06-25T10:59:13.285Z"}
+{"level":"info","message":"false","timestamp":"2019-06-25T10:59:13.297Z"}
+{"level":"info","message":"/api/role/addDocs?_=1561460353039","timestamp":"2019-06-25T10:59:13.312Z"}
+{"level":"info","message":"false","timestamp":"2019-06-25T10:59:13.320Z"}
+{"level":"info","message":"/api/role/deleteDocs?_=1561460353041","timestamp":"2019-06-25T10:59:13.518Z"}
+{"level":"info","message":"false","timestamp":"2019-06-25T10:59:13.521Z"}
+{"level":"info","message":"/api/role/addDocs?_=1561460506037","timestamp":"2019-06-25T11:01:46.322Z"}
+{"level":"info","message":"false","timestamp":"2019-06-25T11:01:46.335Z"}
+{"level":"info","message":"/api/role/changeDocs?_=1561460506036","timestamp":"2019-06-25T11:01:46.319Z"}
+{"level":"info","message":"false","timestamp":"2019-06-25T11:01:46.333Z"}
+{"level":"info","message":"/api/role/deleteDocs?_=1561460506039","timestamp":"2019-06-25T11:01:46.743Z"}
+{"level":"info","message":"false","timestamp":"2019-06-25T11:01:46.745Z"}
+{"level":"info","message":"/api/role/changeDocs?_=1561460775289","timestamp":"2019-06-25T11:06:15.560Z"}
+{"level":"info","message":"false","timestamp":"2019-06-25T11:06:15.573Z"}
+{"level":"info","message":"/api/role/addDocs?_=1561460775290","timestamp":"2019-06-25T11:06:15.591Z"}
+{"level":"info","message":"false","timestamp":"2019-06-25T11:06:15.595Z"}
+{"level":"info","message":"/api/role/deleteDocs?_=1561460775292","timestamp":"2019-06-25T11:06:15.661Z"}
+{"level":"info","message":"false","timestamp":"2019-06-25T11:06:15.667Z"}
+{"level":"info","message":"/api/role/changeDocs?_=1561460788475","timestamp":"2019-06-25T11:06:28.713Z"}
+{"level":"info","message":"false","timestamp":"2019-06-25T11:06:28.718Z"}
+{"level":"info","message":"/api/role/addDocs?_=1561460788476","timestamp":"2019-06-25T11:06:28.728Z"}
+{"level":"info","message":"false","timestamp":"2019-06-25T11:06:28.731Z"}
+{"level":"info","message":"/api/role/deleteDocs?_=1561460788478","timestamp":"2019-06-25T11:06:28.828Z"}
+{"level":"info","message":"false","timestamp":"2019-06-25T11:06:28.830Z"}
+{"level":"info","message":"/api/role/changeDocs?_=1561461087476","timestamp":"2019-06-25T11:11:28.324Z"}
+{"level":"info","message":"false","timestamp":"2019-06-25T11:11:28.335Z"}
+{"level":"info","message":"/api/role/addDocs?_=1561461087477","timestamp":"2019-06-25T11:11:28.350Z"}
+{"level":"info","message":"false","timestamp":"2019-06-25T11:11:28.351Z"}
+{"level":"info","message":"/api/role/deleteDocs?_=1561461087479","timestamp":"2019-06-25T11:11:28.425Z"}
+{"level":"info","message":"false","timestamp":"2019-06-25T11:11:28.426Z"}
+{"level":"info","message":"/api/role/changeDocs?_=1561461098252","timestamp":"2019-06-25T11:11:38.747Z"}
+{"level":"info","message":"false","timestamp":"2019-06-25T11:11:38.761Z"}
+{"level":"info","message":"/api/role/addDocs?_=1561461098253","timestamp":"2019-06-25T11:11:38.777Z"}
+{"level":"info","message":"false","timestamp":"2019-06-25T11:11:38.780Z"}
+{"level":"info","message":"/api/role/deleteDocs?_=1561461098255","timestamp":"2019-06-25T11:11:38.879Z"}
+{"level":"info","message":"false","timestamp":"2019-06-25T11:11:38.884Z"}
+{"level":"info","message":"/api/role/changeDocs?_=1561461157632","timestamp":"2019-06-25T11:12:37.794Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:12:37.805Z"}
+{"level":"info","message":"/api/role/addDocs?_=1561461157633","timestamp":"2019-06-25T11:12:37.797Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:12:37.805Z"}
+{"level":"info","message":"/api/role/deleteDocs?_=1561461157635","timestamp":"2019-06-25T11:12:37.878Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:12:37.879Z"}
+{"level":"info","message":"/api/role/changeDocs?_=1561461309992","timestamp":"2019-06-25T11:15:10.192Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:15:10.201Z"}
+{"level":"info","message":"/api/role/addDocs?_=1561461309993","timestamp":"2019-06-25T11:15:10.195Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:15:10.203Z"}
+{"level":"info","message":"/api/role/deleteDocs?_=1561461309995","timestamp":"2019-06-25T11:15:10.289Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:15:10.290Z"}
+{"level":"info","message":"/api/role/addDocs?_=1561461378792","timestamp":"2019-06-25T11:16:19.020Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:16:19.040Z"}
+{"level":"info","message":"/api/role/changeDocs?_=1561461378790","timestamp":"2019-06-25T11:16:19.020Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:16:19.043Z"}
+{"level":"info","message":"/api/role/deleteDocs?_=1561461378791","timestamp":"2019-06-25T11:16:19.065Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:16:19.068Z"}
+{"level":"info","message":"/api/role/changeDocs?_=1561461392222","timestamp":"2019-06-25T11:16:32.374Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:16:32.376Z"}
+{"level":"info","message":"/api/role/addDocs?_=1561461392224","timestamp":"2019-06-25T11:16:32.381Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:16:32.382Z"}
+{"level":"info","message":"/api/role/deleteDocs?_=1561461392223","timestamp":"2019-06-25T11:16:32.385Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:16:32.387Z"}
+{"level":"info","message":"/api/role/addDocs?_=1561461440181","timestamp":"2019-06-25T11:17:20.382Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:17:20.392Z"}
+{"level":"info","message":"/api/role/changeDocs?_=1561461440179","timestamp":"2019-06-25T11:17:20.376Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:17:20.388Z"}
+{"level":"info","message":"/api/role/deleteDocs?_=1561461440180","timestamp":"2019-06-25T11:17:20.398Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:17:20.400Z"}
+{"level":"info","message":"/api/role/changeDocs?_=1561461445729","timestamp":"2019-06-25T11:17:25.927Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:17:25.930Z"}
+{"level":"info","message":"/api/role/deleteDocs?_=1561461445730","timestamp":"2019-06-25T11:17:25.934Z"}
+{"level":"info","message":"/api/role/addDocs?_=1561461445731","timestamp":"2019-06-25T11:17:25.938Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:17:25.937Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:17:25.941Z"}
+{"level":"info","message":"/api/role/changeDocs?_=1561461447472","timestamp":"2019-06-25T11:17:27.642Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:17:27.643Z"}
+{"level":"info","message":"/api/role/deleteDocs?_=1561461447473","timestamp":"2019-06-25T11:17:27.647Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:17:27.656Z"}
+{"level":"info","message":"/api/role/addDocs?_=1561461447474","timestamp":"2019-06-25T11:17:27.664Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:17:27.666Z"}
+{"level":"info","message":"/api/role/changeDocs?_=1561461531613","timestamp":"2019-06-25T11:18:51.820Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:18:51.822Z"}
+{"level":"info","message":"/api/role/addDocs?_=1561461531614","timestamp":"2019-06-25T11:18:51.831Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:18:51.833Z"}
+{"level":"info","message":"/api/role/changeDocs?_=1561461546502","timestamp":"2019-06-25T11:19:06.678Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:19:06.680Z"}
+{"level":"info","message":"/api/role/addDocs?_=1561461546503","timestamp":"2019-06-25T11:19:06.682Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:19:06.685Z"}
+{"level":"info","message":"/api/role/changeDocs?_=1561461551698","timestamp":"2019-06-25T11:19:11.780Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:19:11.787Z"}
+{"level":"info","message":"/api/role/addDocs?_=1561461551699","timestamp":"2019-06-25T11:19:11.794Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:19:11.795Z"}
+{"level":"info","message":"/api/role/changeDocs?_=1561461591374","timestamp":"2019-06-25T11:19:51.614Z"}
+{"level":"info","message":"/api/role/addDocs?_=1561461591375","timestamp":"2019-06-25T11:19:51.623Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:19:51.628Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:19:51.626Z"}
+{"level":"info","message":"/api/role/changeDocs?_=1561461716286","timestamp":"2019-06-25T11:21:56.739Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:21:56.768Z"}
+{"level":"info","message":"/api/role/addDocs?_=1561461716287","timestamp":"2019-06-25T11:21:56.786Z"}
+{"level":"info","message":"true","timestamp":"2019-06-25T11:21:56.789Z"}
+{"level":"info","message":"/api/role/changeDocs?_=1561461723186","timestamp":"2019-06-25T11:22:03.526Z"}
+{"level":"info","message":"false","timestamp":"2019-06-25T11:22:03.537Z"}
+{"level":"info","message":"/api/role/addDocs?_=1561461723187","timestamp":"2019-06-25T11:22:03.543Z"}
+{"level":"info","message":"false","timestamp":"2019-06-25T11:22:03.545Z"}

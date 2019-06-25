@@ -1,0 +1,15 @@
+{
+    "port": 80,
+    "pg": {
+        "host": "192.168.0.5",
+        "port": 5432,
+        "database": "TestIly",
+        "user": "farma_audio",
+        "password": "430200"
+    },
+    "storage": {
+        "dir" : "/srv/audiolog/uploads", 
+        "format" : "yyyy/mm/dd/HH/MM",
+        "partial_spool" : "/srv/audiolog/uploads/partial"
+    }
+}

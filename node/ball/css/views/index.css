@@ -1,0 +1,16 @@
+body {
+  padding-top: 50px;
+}
+.starter-template {
+  padding: 40px 15px;
+  text-align: center;
+}
+
+.spectro-img {
+    width:200px;
+    height:36px;
+}
+
+.headder-audio-text{
+    color: #fff;
+}
